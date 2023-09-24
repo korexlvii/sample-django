@@ -6,7 +6,7 @@ DATABASES = {
         'NAME': 'postgre_django',
         'USER': 'db_user',
         'PASSWORD': 'qwer1234',
-        'HOST': '$db_host',
+        'HOST': '$DB_HOST',
         'PORT': '5432',
     }
 }
